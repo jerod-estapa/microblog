@@ -1,1 +1,2 @@
-# jerod_site
+# microblog
+Just a tiny flask blog.
